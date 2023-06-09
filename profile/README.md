@@ -3,7 +3,7 @@
 [GH Link](https://github.com/ClockworkIndustries)
 
 Members: <br>
-[kxtz#8161](https://github.com/kxtzownsu)
+[kxtz](https://github.com/kxtzownsu)
 <br>
 [Final](https://github.com/FinalOfNoobs)
 
