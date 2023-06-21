@@ -11,5 +11,5 @@ Members: <br>
 <!-- [membername](https://github.com/MemberName)<br> -->
 
 ## Projects
-[FakeAPK](https://github.com/ClockworkIndustries/FakeAPK)
-[ExtensionMgr](https://github.com/ClockworkIndusries/ExtensionMgr)
+[FakeAPK](https://github.com/ClockworkIndustries/FakeAPK)<br>
+[ExtensionMgr](https://github.com/ClockworkIndusries/ExtensionMgr)<br>
