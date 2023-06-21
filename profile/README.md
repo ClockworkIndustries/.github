@@ -1,6 +1,6 @@
 # Clockwork Industries
 
-Members: <br>
+## Members <br>
 [kxtz](https://github.com/kxtzownsu)<br>
 [Final](https://github.com/FinalOfNoobs)<br>
 [Cubing Hay](https://github.com/BlueHatCrew)<br>
