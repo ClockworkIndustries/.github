@@ -2,7 +2,6 @@
 
 ## Members <br>
 [kxtz](https://github.com/kxtzownsu)<br>
-[Final](https://github.com/FinalOfNoobs)<br>
 [fruvs](https://github.com/fruvs)<br>
 [writable](https://github.com/MunyDev/)<br>
 [misterfonka](https://github.com/misterfonka)<br>
